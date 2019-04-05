@@ -1,0 +1,9 @@
+Package: mmaintenanced.hook
+Name: mmaintenanced_hook
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Pwn20wnd
+Author: Pwn20wnd
+Section: Tweaks
